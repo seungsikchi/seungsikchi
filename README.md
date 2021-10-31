@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seungsik%20Choi&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seungsik%20Choi&fontSize=60&fontAlign=70)
 
 ## About me
 Hi there!! 👍
