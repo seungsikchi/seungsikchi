@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seungsik%20Choi&fontSize=60&fontAlign=70&desc=A.I%20Developer&descAlign=90&descAlignY=70)
 
 ## About me
-Hi there!! 👍
+Hi there!! 👍👍👍
 
 Good day! I am <B>Seungsik Choi</B> who is interested in <B>Artificial intelligence</B> from South Koeras
 
