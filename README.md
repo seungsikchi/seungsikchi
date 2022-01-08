@@ -5,6 +5,10 @@ Hi there!! 👍👍👍
 
 Good day! I am <B>Seungsik Choi</B> who is interested in <B>Artificial intelligence</B> from in Daegu, Korea
 
+- 🌱 I’m currently learning Python and Tensorflow
+
+- 📫 How to reach me: seungsik.choi1@gmail.com, Instargram : [@c_seungsik](https://www.instagram.com/c_seungsik/?hl=ko/) 
+
 ## Contact me
 <p>
   <a href="mailto:seungsik.choi1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/seungsik.choi1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
