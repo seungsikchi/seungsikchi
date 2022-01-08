@@ -3,7 +3,7 @@
 ## About me
 Hi there!! 👍👍👍
 
-Good day! I am <B>Seungsik Choi</B> who is interested in <B>Artificial intelligence</B> from South Koeras
+Good day! I am <B>Seungsik Choi</B> who is interested in <B>Artificial intelligence</B> from in Daegu, Korea
 
 ## Contact me
 <p>
