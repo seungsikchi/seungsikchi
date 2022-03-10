@@ -5,7 +5,7 @@ Hi there!!
 
 Good day! I am <B>Seungsik Choi</B> who is interested in <B>Artificial intelligence</B> from in Daegu, Korea
 
-- 🌱 I’m currently learning Python and Tensorflow
+- 🌱 I’m currently learning Python and Tensorflow, Pytorch
 
 - 📫 How to reach me: seungsik.choi1@gmail.com, Instargram : [@c_seungsik](https://www.instagram.com/c_seungsik/?hl=ko/) 
 
